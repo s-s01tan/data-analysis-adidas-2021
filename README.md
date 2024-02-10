@@ -36,7 +36,7 @@ street_footwear_sales = [
 - ### Next section contains the solutions of these tasks:
         - 1. Data Preparation
         - 2. Basic Sales Analysis in Python
-        - 3. Basic Sales Analysis in Python
+        - 3. Comparative Sales Analysis in Python
         - 4. Advanced Analysis
 <hr>
 
